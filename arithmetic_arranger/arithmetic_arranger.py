@@ -5,7 +5,7 @@ def arithmetic_arranger(problems, statprint=False):
     sumx = ''
     lines = ''
     # maximal problems is 5
-    if len(problems) >= 6:
+    if len(problems) > 5:
         return 'Error: Too many problems.'
     # split problem to separate components
     for i in problems:

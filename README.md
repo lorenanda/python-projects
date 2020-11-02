@@ -5,5 +5,5 @@
 - [Password checker](https://github.com/lorenanda/task-automation/blob/master/strong_password.py): A script that verifies if a password is strong enough, based on given criteria.
 - [Password generator](https://github.com/lorenanda/task-automation/blob/master/password_generator.py): A script that generates a strong password, because it's hard to come up with one by yourself.
 - [Extract email addresses from text](https://github.com/lorenanda/task-automation/blob/master/extract_email.py): A script that does what it says.
-- [Edit batch files](https://github.com/lorenanda/task-automation/tree/master/edit_batch_files): A script that automates renaming/deleting multiple files.
+- [Edit batch files](https://github.com/lorenanda/task-automation/blob/master/rename_images.py): A script that automates renaming/deleting multiple files.
 - [Arithmetic arranger](https://github.com/lorenanda/task-automation/tree/master/arithmetic_arranger): A script that arranges numbers vertically for easier (kindergarten) calculation.
